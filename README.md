@@ -7,6 +7,6 @@ Get unlimited views on YouTube with this script! Simply place your satisfying or
 ### Beware of PC Strain
 - This script requires a significant amount of disk space.
 - It is power-hungry and you'll need at least **16GB of RAM**.
-- The script utilizes multithreading and will max out your CPU usage.
+- The script utilizes multithreading and will max out your CPU usage, It even maxed out my 24-thread i7.
 
 **Important:** Do not attempt to perform other heavy tasks while this script is running.
