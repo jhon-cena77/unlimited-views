@@ -1,11 +1,12 @@
-# unlimited-views
-Get unlimited views on YouTube with this script.
-Place your satisfying or car footage or whatever in footage.mp4 in the same directory.
-It will generate voice it's not fancy AI TTS with Cuda but it works.
+# Unlimited Views
 
-## WARNING⚠️
-###Beware of PC strain
-It will use a lot of disk space
-This script is power-hungry you will need at least 16GB of RAM probably 
-It does use Multithreading and will max your CPU usage 
-Do not try and do other heavy tasks while it's running.
+Get unlimited views on YouTube with this script! Simply place your satisfying or car footage (or any video) in `footage.mp4` in the same directory. The script will generate voice audio—it’s not fancy AI TTS with CUDA, but it gets the job done.
+
+## WARNING ⚠️
+
+### Beware of PC Strain
+- This script requires a significant amount of disk space.
+- It is power-hungry and you'll need at least **16GB of RAM**.
+- The script utilizes multithreading and will max out your CPU usage.
+
+**Important:** Do not attempt to perform other heavy tasks while this script is running.
