@@ -1,7 +1,8 @@
 # Unlimited Views
 
 Get unlimited views on YouTube with this script! Simply place your satisfying or car footage (or any video) in `footage.mp4` in the same directory. The script will generate voice audio—it’s not fancy AI TTS with CUDA, but it gets the job done.
-Note: near the end of the script change to the number of threads your CPU has or 1.
+Note: on line 112 the script changes to the number of threads your CPU has or 1 even.
+If you get an error about ffmpeg don't worry about it it should still do it without ffmpeg.
 
 ## WARNING ⚠️
 
